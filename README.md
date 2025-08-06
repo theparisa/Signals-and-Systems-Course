@@ -32,13 +32,13 @@ The purpose of this course is to introduce the fundamental concepts of **continu
 
 ## Projects
 
-* **1:** Implementation of an Optical Character Recognition (OCR) System using 2D Signal Processing and Correlation
-* **2:** Developing a Component Recognition System for Locating Integrated Circuits on a PCB using Rotational Template Matching and 2D Normalized Cross-Correlation
-* **3:** Frequency-Domain Analysis and Simulation of a Digital Communication System using Frequency Shift Keying (FSK)
-* **4:** Applications of the Fourier Transform for Parameter Estimation in Radar and Music Signals
-* **5:** Modeling and Analysis of Physical LTI Systems using the Laplace Transform and Simulink
-* **6:** Analysis of Continuous-Time LTI Systems using Convolution and the Impulse Response
-* **7:** Applications of Fourier Analysis in Signal Decomposition, Sampling, and LTI System Design
+1. Implementation of an Optical Character Recognition (OCR) System using 2D Signal Processing and Correlation
+2. Developing a Component Recognition System for Locating Integrated Circuits on a PCB using Rotational Template Matching and 2D Normalized Cross-Correlation
+3. Frequency-Domain Analysis and Simulation of a Digital Communication System using Frequency Shift Keying (FSK)
+4. Applications of the Fourier Transform for Parameter Estimation in Radar and Music Signals
+5. Modeling and Analysis of Physical LTI Systems using the Laplace Transform and Simulink
+6. Analysis of Continuous-Time LTI Systems using Convolution and the Impulse Response
+7. Applications of Fourier Analysis in Signal Decomposition, Sampling, and LTI System Design
 
 
 
